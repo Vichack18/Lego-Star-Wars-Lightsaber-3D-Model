@@ -1,0 +1,1 @@
+Hi! This a Lego Lightsaber 3D Model replic that i replicated on Autodesk Fusion 360. I left a .STL file in this repo, so feel free to use it. You can open it with Solidworks, ThinkerCAD, Meshmixer and other apps. See ya!
